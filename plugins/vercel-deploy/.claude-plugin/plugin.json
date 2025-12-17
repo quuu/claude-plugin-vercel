@@ -1,0 +1,8 @@
+{
+  "name": "vercel-deploy",
+  "description": "Deploy applications to Vercel with skills for deployment, logs, and setup",
+  "author": {
+    "name": "Vercel",
+    "email": "support@vercel.com"
+  }
+}
